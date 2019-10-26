@@ -2,8 +2,8 @@
   "name": "shadowsocks-over-websocket",
   "version": "0.1.8",
   "engines": {
-    "node": "12.13.0"
-  }
+    "node": "12.13.0" }
+ 
   
   "main": "tcprelay.js",
   "scripts": {
